@@ -1,0 +1,12 @@
+{
+  "name": "mario-kart-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Felipe Tozarini Mendes Bianchi",
+  "license": "ISC",
+  "description": "Simulação do jogo de corrida do Mario Kart dentro do terminal."
+}
